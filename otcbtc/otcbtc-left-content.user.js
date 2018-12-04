@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         otcbtc-侧边成交时间
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        https://otcbtc.io/sell_offers*
