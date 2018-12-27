@@ -24,6 +24,7 @@
     // 重来
     if($('.tips').text().match(/房租|樊登|喜马拉雅/)) {
         deleteAllCookies()
+        localStorage.clear()
         await delay(5e3)
         location.reload()
     }
